@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+    <string name="content_text">Content Text</string>
+    <string name="tap_to_close">Tap to Close</string>
+</resources>
